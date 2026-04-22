@@ -33,6 +33,7 @@ BitcoinPurple launched with **no premine**, ensuring fair and transparent distri
 
 - Initial block reward: **1 BTCP**  
 - Halving: every **500,000 blocks**
+- Current block reward: 0.25 BTCP (approx., depending on network height)
 
 ---
 
